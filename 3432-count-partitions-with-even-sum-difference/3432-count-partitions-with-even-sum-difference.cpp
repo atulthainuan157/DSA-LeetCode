@@ -9,8 +9,7 @@ public:
         for(int i=0;i<nums.size()-1;i++)
         {
             prefixSum+=nums[i];
-            lastSum-=nums[i];
-            if((prefixSum>=lastSum)&&(((prefixSum-lastSum)%2)==0)||(prefixSum<lastSum)&&(((prefixSum-lastSum)%2)==0))
+            if((prefixSum-(lastSum-prefixSum))%2==0)
                 partitions++;
         }
         return partitions;
