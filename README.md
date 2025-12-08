@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
