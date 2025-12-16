@@ -38,4 +38,8 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1925-count-square-sum-triples) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
