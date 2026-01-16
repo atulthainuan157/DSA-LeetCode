@@ -34,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Greedy
 |  |
@@ -59,4 +61,12 @@
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
