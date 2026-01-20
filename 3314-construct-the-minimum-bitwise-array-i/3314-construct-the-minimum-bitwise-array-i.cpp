@@ -3,10 +3,10 @@ public:
     vector<int> minBitwiseArray(vector<int>& nums) {
         vector<int> ans;
         for (int value : nums) {
-            int found=-1;
+            int found = -1;
             for (int j = 0; j <= value; j++) {
                 if ((j | (j + 1)) == value) {
-                    found=j;
+                    found = j;
                     break;
                 }
             }
