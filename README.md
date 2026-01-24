@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0257-binary-tree-paths](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Greedy
@@ -82,6 +83,7 @@
 | [0100-same-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -89,6 +91,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -101,6 +104,7 @@
 | [0100-same-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -131,4 +135,8 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
