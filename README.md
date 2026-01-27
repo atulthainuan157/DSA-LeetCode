@@ -141,4 +141,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
