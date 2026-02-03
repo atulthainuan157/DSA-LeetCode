@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1925-count-square-sum-triples) |
@@ -127,6 +128,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0175-combine-two-tables) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
