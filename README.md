@@ -11,6 +11,7 @@
 | [0875-koko-eating-bananas](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1200-minimum-absolute-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -64,11 +65,13 @@
 ## Greedy
 |  |
 | ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
 |  |
@@ -158,4 +161,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
