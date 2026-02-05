@@ -15,6 +15,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3379-transformed-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3637-trionic-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3637-trionic-array-i) |
@@ -147,6 +148,7 @@
 ## Simulation
 |  |
 | ------- |
+| [3379-transformed-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
