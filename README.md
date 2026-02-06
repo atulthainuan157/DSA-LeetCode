@@ -25,6 +25,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0007-reverse-integer) |
+| [0292-nim-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0292-nim-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -182,4 +183,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
