@@ -66,6 +66,7 @@
 | [0008-string-to-integer-atoi](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0257-binary-tree-paths](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0926-flip-string-to-monotone-increasing](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0944-delete-columns-to-make-sorted](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Greedy
 |  |
@@ -191,4 +192,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0926-flip-string-to-monotone-increasing](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
 <!---LeetCode Topics End-->
