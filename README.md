@@ -40,6 +40,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
+| [1382-balance-a-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0611-valid-triangle-number) |
+| [1382-balance-a-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sorting
@@ -115,6 +117,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -143,6 +147,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -209,4 +214,8 @@
 | ------- |
 | [0926-flip-string-to-monotone-increasing](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
