@@ -14,7 +14,7 @@ class Solution {
 public:
     TreeNode* makeBST(vector<int>& nums, int st, int end) {
         int mid = st + (end - st) / 2;
-        while (st > end) {
+        if (st > end) {
             return NULL;
         }
         TreeNode* root = new TreeNode(nums[mid]);
