@@ -12,17 +12,28 @@
  */
 class Solution {
 public:
-    vector<int> arr;
-    void helper(TreeNode* root) {
-        if (root == NULL) {
-            return;
-        }
-        helper(root->left);
-        arr.push_back(root->val);
-        helper(root->right);
-    }
+    int prevOrder = 0;
     int kthSmallest(TreeNode* root, int k) {
-        helper(root);
-        return arr[k - 1];
+        if (root == NULL) {
+            return -1;
+        }
+        if (root->left != NULL) {
+            int leftAns = kthSmallest(root->left, k);
+            if (leftAns != -1) {
+                return leftAns;
+            }
+        }
+        if (prevOrder + 1 == k) {
+            return root->val;
+        }
+        prevOrder += 1;
+
+        if (root->right != NULL) {
+            int rightAns = kthSmallest(root->right, k);
+            if (rightAns != -1) {
+                return rightAns;
+            }
+        }
+        return -1;
     }
 };
