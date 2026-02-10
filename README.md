@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -221,6 +224,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
