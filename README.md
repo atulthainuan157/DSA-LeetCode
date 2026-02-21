@@ -33,6 +33,7 @@
 | [0007-reverse-integer](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0292-nim-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -58,6 +59,7 @@
 | [0191-number-of-1-bits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
 |  |
