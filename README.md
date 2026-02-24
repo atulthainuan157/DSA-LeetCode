@@ -148,6 +148,7 @@
 | [0572-subtree-of-another-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -167,6 +168,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -194,6 +196,7 @@
 | [0572-subtree-of-another-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
