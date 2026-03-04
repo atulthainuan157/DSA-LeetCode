@@ -17,6 +17,7 @@
 | [0875-koko-eating-bananas](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1200-minimum-absolute-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -295,6 +296,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0733-flood-fill) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
