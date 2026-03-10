@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0200-number-of-islands) |
@@ -121,6 +122,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0611-valid-triangle-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0611-valid-triangle-number) |
 | [1200-minimum-absolute-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -245,6 +247,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
