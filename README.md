@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0733-flood-fill) |
@@ -39,6 +40,7 @@
 | [0002-add-two-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0292-nim-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -65,6 +67,7 @@
 | [0136-single-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -80,6 +83,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -127,6 +131,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0047-permutations-ii) |
+| [0268-missing-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0611-valid-triangle-number) |
 | [1200-minimum-absolute-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -135,6 +140,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
