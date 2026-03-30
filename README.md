@@ -99,6 +99,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -135,6 +136,7 @@
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
@@ -152,6 +154,7 @@
 | [0611-valid-triangle-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0611-valid-triangle-number) |
 | [1200-minimum-absolute-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3634-minimum-removals-to-balance-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
