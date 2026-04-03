@@ -49,6 +49,7 @@
 | [0007-reverse-integer](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
@@ -283,6 +285,7 @@
 | [0039-combination-sum](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
