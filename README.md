@@ -270,6 +270,7 @@
 | [0067-add-binary](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2069-walking-robot-simulation-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [3379-transformed-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -395,4 +396,8 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
