@@ -129,6 +129,7 @@
 | [0008-string-to-integer-atoi](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -289,6 +290,7 @@
 | [0046-permutations](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0089-gray-code) |
+| [0131-palindrome-partitioning](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -351,6 +353,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
