@@ -43,6 +43,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sliding Window
 |  |
 | ------- |
