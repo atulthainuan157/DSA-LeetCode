@@ -30,6 +30,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2678-number-of-senior-citizens](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2906-construct-product-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2906-construct-product-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -146,6 +147,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2678-number-of-senior-citizens](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
