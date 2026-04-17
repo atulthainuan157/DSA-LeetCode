@@ -7,9 +7,9 @@ public:
             revNum = revNum * 10 + rem;
             n /= 10;
         }
-        cout << revNum << endl;
         return revNum;
     }
+
     int minMirrorPairDistance(vector<int>& nums) {
         unordered_map<int, int> mp;
         int ans = INT_MAX;
