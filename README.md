@@ -341,6 +341,7 @@
 | [1661-average-time-of-process-per-machine](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1965-employees-with-missing-information](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1965-employees-with-missing-information) |
 | [3436-find-valid-emails](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3436-find-valid-emails) |
 ## Recursion
 |  |
