@@ -196,6 +196,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -367,6 +368,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Brainteaser
 |  |
@@ -428,5 +430,6 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2069-walking-robot-simulation-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
