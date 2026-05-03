@@ -149,6 +149,7 @@
 | [0257-binary-tree-paths](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0944-delete-columns-to-make-sorted](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -276,6 +277,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
