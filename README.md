@@ -48,6 +48,7 @@
 | [3488-closest-equal-element-queries](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -183,6 +184,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
@@ -207,6 +210,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [3488-closest-equal-element-queries](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Queue
 |  |
 | ------- |
@@ -387,6 +391,7 @@
 | [0075-sort-colors](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0611-valid-triangle-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
 |  |
