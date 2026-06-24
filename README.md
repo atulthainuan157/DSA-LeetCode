@@ -219,6 +219,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -498,4 +499,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2069-walking-robot-simulation-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2069-walking-robot-simulation-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
