@@ -33,6 +33,7 @@
 | [1732-find-the-highest-altitude](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -183,6 +184,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
