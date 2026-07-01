@@ -43,6 +43,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2678-number-of-senior-citizens) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2906-construct-product-matrix) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -232,6 +233,7 @@
 | [0611-valid-triangle-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3488-closest-equal-element-queries](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Queue
@@ -308,6 +310,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -351,6 +354,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
@@ -477,6 +481,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -486,6 +491,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2906-construct-product-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3546-equal-sum-grid-partition-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
