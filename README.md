@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -461,6 +462,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0788-rotated-digits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0788-rotated-digits) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
