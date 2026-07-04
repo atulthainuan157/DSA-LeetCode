@@ -297,6 +297,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -312,6 +313,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
@@ -486,6 +488,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -508,6 +511,7 @@
 | [0207-course-schedule](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
