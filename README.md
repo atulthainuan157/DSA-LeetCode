@@ -87,6 +87,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Prefix Sum
@@ -100,6 +101,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
