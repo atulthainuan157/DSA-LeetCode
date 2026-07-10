@@ -68,6 +68,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -454,6 +455,7 @@
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Stack
 |  |
 | ------- |
