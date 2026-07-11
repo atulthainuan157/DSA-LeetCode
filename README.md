@@ -207,6 +207,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3931-check-adjacent-digit-differences](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 ## Greedy
 |  |
 | ------- |
