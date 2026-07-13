@@ -68,6 +68,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
 |  |
@@ -387,6 +388,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Doubly-Linked List
 |  |
 | ------- |
