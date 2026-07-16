@@ -68,6 +68,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3912-valid-elements-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3912-valid-elements-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -94,6 +95,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3945-digit-frequency-score) |
@@ -244,6 +246,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -393,6 +396,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Doubly-Linked List
@@ -465,6 +469,7 @@
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Stack
 |  |
@@ -564,4 +569,5 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
