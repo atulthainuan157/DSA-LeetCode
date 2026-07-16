@@ -80,6 +80,7 @@
 | [0048-rotate-image](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0089-gray-code) |
+| [0172-factorial-trailing-zeroes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0371-sum-of-two-integers) |
