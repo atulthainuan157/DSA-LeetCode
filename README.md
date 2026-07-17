@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -117,6 +118,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0190-reverse-bits) |
@@ -495,6 +497,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0788-rotated-digits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0788-rotated-digits) |
