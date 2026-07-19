@@ -35,6 +35,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
