@@ -31,6 +31,7 @@
 | [0875-koko-eating-bananas](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1200-minimum-absolute-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -400,6 +401,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2069-walking-robot-simulation-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -536,6 +538,7 @@
 | [0048-rotate-image](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
