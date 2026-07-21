@@ -67,6 +67,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -149,6 +150,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Hash Table
 |  |
@@ -498,6 +500,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0292-nim-game) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
 | ------- |
