@@ -101,6 +101,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -497,6 +498,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -515,6 +517,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
