@@ -225,6 +225,7 @@
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2678-number-of-senior-citizens](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2678-number-of-senior-citizens) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -411,6 +412,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2069-walking-robot-simulation-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3379-transformed-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -500,6 +502,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Brainteaser
 |  |
 | ------- |
