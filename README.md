@@ -29,6 +29,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1200-minimum-absolute-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
@@ -96,6 +97,7 @@
 | [0371-sum-of-two-integers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -523,6 +525,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -530,6 +533,7 @@
 | [0118-pascals-triangle](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0788-rotated-digits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
