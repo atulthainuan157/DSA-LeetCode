@@ -78,6 +78,7 @@
 | [3861-minimum-capacity-box](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3912-valid-elements-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3912-valid-elements-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -110,6 +111,7 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3945-digit-frequency-score) |
 ## Prefix Sum
