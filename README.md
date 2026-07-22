@@ -104,6 +104,7 @@
 | [1925-count-square-sum-triples](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2396-strictly-palindromic-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -201,6 +202,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
