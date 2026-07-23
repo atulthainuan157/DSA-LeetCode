@@ -232,6 +232,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2129-capitalize-the-title](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2129-capitalize-the-title) |
@@ -425,6 +426,7 @@
 | [0657-robot-return-to-origin](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2069-walking-robot-simulation-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
