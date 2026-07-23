@@ -168,6 +168,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2595-number-of-even-and-odd-bits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
