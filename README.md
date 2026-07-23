@@ -104,6 +104,7 @@
 | [1925-count-square-sum-triples](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2396-strictly-palindromic-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -426,6 +427,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2069-walking-robot-simulation-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3379-transformed-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3379-transformed-array) |
