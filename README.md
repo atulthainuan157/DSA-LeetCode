@@ -52,6 +52,7 @@
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2906-construct-product-matrix) |
@@ -169,6 +170,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2595-number-of-even-and-odd-bits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -188,6 +190,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3488-closest-equal-element-queries](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3488-closest-equal-element-queries) |
