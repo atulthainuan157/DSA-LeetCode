@@ -30,6 +30,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1200-minimum-absolute-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
@@ -286,6 +287,7 @@
 | [0268-missing-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -522,6 +524,7 @@
 | [0031-next-permutation](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0611-valid-triangle-number) |
+| [0905-sort-array-by-parity](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
