@@ -244,6 +244,7 @@
 | [0290-word-pattern](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
