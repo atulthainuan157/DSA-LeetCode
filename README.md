@@ -244,6 +244,7 @@
 | [0131-palindrome-partitioning](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0520-detect-capital) |
@@ -540,6 +541,7 @@
 | [0027-remove-element](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0345-reverse-vowels-of-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
