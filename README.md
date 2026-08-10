@@ -56,6 +56,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
