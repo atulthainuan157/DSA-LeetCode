@@ -39,6 +39,7 @@
 | [1288-remove-covered-intervals](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -196,6 +197,7 @@
 | [0290-word-pattern](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0500-keyboard-row) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -338,6 +340,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3527-find-the-most-common-response](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3713-longest-balanced-substring-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
