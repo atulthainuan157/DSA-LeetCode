@@ -208,6 +208,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3488-closest-equal-element-queries](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3527-find-the-most-common-response](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
@@ -226,6 +227,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
 |  |
@@ -275,6 +277,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3527-find-the-most-common-response](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3612-process-string-with-special-operations-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
