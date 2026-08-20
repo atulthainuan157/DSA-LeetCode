@@ -59,6 +59,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -184,6 +185,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2206-divide-array-into-equal-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2595-number-of-even-and-odd-bits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -207,6 +209,7 @@
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2206-divide-array-into-equal-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -353,6 +356,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2206-divide-array-into-equal-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3527-find-the-most-common-response](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3713-longest-balanced-substring-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
