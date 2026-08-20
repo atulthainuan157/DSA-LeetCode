@@ -44,6 +44,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -206,6 +207,7 @@
 | [0500-keyboard-row](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0500-keyboard-row) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1980-find-unique-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -321,6 +323,7 @@
 | [1200-minimum-absolute-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2126-destroying-asteroids) |
