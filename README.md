@@ -102,6 +102,7 @@
 | [3912-valid-elements-in-an-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3912-valid-elements-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [4020-elevator-requests-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
 | ------- |
@@ -500,6 +501,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/4020-elevator-requests-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
