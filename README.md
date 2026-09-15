@@ -119,6 +119,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -696,4 +697,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
