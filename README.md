@@ -83,6 +83,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3527-find-the-most-common-response](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3546-equal-sum-grid-partition-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3637-trionic-array-i) |
@@ -138,6 +139,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
