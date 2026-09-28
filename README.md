@@ -279,6 +279,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -596,6 +597,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -707,4 +709,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
