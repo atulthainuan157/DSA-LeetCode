@@ -1,0 +1,17 @@
+class Solution {
+public:
+    int maxDepth(string s) {
+        int count = 0;
+        int ans = 0;
+        for (char ch : s) {
+            if (ch == '(') {
+                count++;
+            }
+            if (ch == ')') {
+                count--;
+            }
+            ans = max(ans, count);
+        }
+        return ans;
+    }
+};
