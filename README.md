@@ -263,6 +263,7 @@
 | [0008-string-to-integer-atoi](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
@@ -524,6 +525,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0047-permutations-ii) |
@@ -615,6 +617,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -713,5 +716,6 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
