@@ -68,6 +68,7 @@
 | [2678-number-of-senior-citizens](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2906-construct-product-matrix) |
+| [2942-find-words-containing-character](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2942-find-words-containing-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -295,6 +296,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2942-find-words-containing-character](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
