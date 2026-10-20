@@ -114,6 +114,7 @@
 | [0007-reverse-integer](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0268-missing-number) |
@@ -624,6 +625,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0788-rotated-digits](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0788-rotated-digits) |
@@ -723,4 +725,8 @@
 | [0020-valid-parentheses](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
