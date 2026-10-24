@@ -5,12 +5,13 @@ public:
         if (n <= 1) {
             return nums[n - 1];
         }
-        vector<int> dp(n);
-        dp[0] = nums[0];
-        dp[1] = max(nums[0], nums[1]);
+        int first = nums[0];
+        int last = max(nums[0], nums[1]);
         for (int i = 2; i < n; i++) {
-            dp[i] = max(dp[i - 1], dp[i - 2] + nums[i]);
+            int medium = last;
+            last = max(medium, first + nums[i]);
+            first = medium;
         }
-        return dp[n - 1];
+        return last;
     }
 };
