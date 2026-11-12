@@ -74,6 +74,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/atulthainuan157/DSA-LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
